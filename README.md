@@ -1,5 +1,5 @@
 # Strange2-page
-Replica Netflix
+Strange2 Multiverese page
 <br>
 <br>
 Usando HTML, CSS e JavaScript!
